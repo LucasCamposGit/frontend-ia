@@ -1,4 +1,4 @@
-import { useEffect, useReducer, useRef, useState } from "react";
+import { useReducer } from "react";
 import Examples from "./components/Examples";
 import "./assets/css/app.css";
 import submit_button from "./assets/svg/submit.svg";
